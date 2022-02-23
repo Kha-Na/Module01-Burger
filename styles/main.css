@@ -22,7 +22,7 @@ body {
     height: 56px;
     background-repeat: no-repeat;
     background-size: cover;
-}
+    }
 .header-nav {
     list-style-type: none;
     display: flex;
@@ -53,6 +53,7 @@ body {
     border: none;
     padding: 0;
     gap: 10px;
+    cursor: pointer;
 }
 .button-item {
     position: relative;
